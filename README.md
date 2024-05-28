@@ -1,1 +1,1 @@
-# cluster-log-summarize-script-
+# cluster-log-summarize-script
